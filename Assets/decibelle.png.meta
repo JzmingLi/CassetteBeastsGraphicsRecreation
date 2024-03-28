@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: 55a182f8481f8d34cafe5ec967d946c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decibelle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461f973ee8d2cb04e8f427b48b02354e
+      internalID: 517176852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 715
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164bbc5922d5aa45a960cdfebe412bd
+      internalID: -1636231281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 715
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3adbfdaa5f0dfc409c704a6f2f7aa06
+      internalID: -994338386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 715
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394566d0ff1419d429d4d1275c8bb95d
+      internalID: 278574711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 715
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7840efd3ab58c52479728657fb5f9f5d
+      internalID: -969406067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaed9ca5c2ef9b458b88bca924df9ee
+      internalID: 1284615126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 596
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab8c6686d15f8b4a866a9c6e915fc14
+      internalID: -262872401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 596
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2f1b4cbbf2c54f876a910c38c65de
+      internalID: 990830482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 596
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536d47299c884e34d8e4c1912214c1f0
+      internalID: -1982660685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 596
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b255e95601e994ead01e98decf3c8b
+      internalID: 331497807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e36e89852609ec4f9300b181ab3a977
+      internalID: -1549753231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 477
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6518c83224e904f428ecc1c6aa3b1ef0
+      internalID: 698406332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 477
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4d011b42827d24bbe473f6684cf1a1
+      internalID: 1659195857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 477
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64727846a0d422a47b27fea3603c7dea
+      internalID: -1117867103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 477
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbefe0418917b254c887823fa3ead773
+      internalID: -412279043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6bb5fda9158bf4caa68b97501f1a40
+      internalID: 1667937092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 358
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d5ca1a5b08fc48a631190de8f6ccd
+      internalID: 83435500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 358
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ae5f483addaf4c9f38353f250dff8
+      internalID: -1727640474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 358
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cb3aaab5399f84294cf0857431d077
+      internalID: 1370768652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 358
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de1e3fdc3ec9a41ada097efd69c38e
+      internalID: 1041347953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba31d44691b2a14eabe27d4724fffbe
+      internalID: 1444214951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 239
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49881b5c5c18d43a049f78f3c098e1
+      internalID: 279538756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 239
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453f325e3f8517744afc27c5a3965fd5
+      internalID: -465826279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 239
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959f81f19f39d045a634c85c81c0f22
+      internalID: -575760290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 239
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38d4291369ae254da0d2ac85959d155
+      internalID: -2114784861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033cbc58e14988478749d45a5ff5e19
+      internalID: 1549247923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 120
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d74a55391edb459b74d3402c4c34e
+      internalID: -1124158945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 120
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeed28782cc87d5468468306c70b3115
+      internalID: 1953930534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 120
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8071353653334478253ba2e5aede38
+      internalID: -1072023571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 120
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6734e006ecbf6d468b74dd15cf0ef6e
+      internalID: -1370601954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379a35563a2254349b0339ddd3df55bc
+      internalID: 259553412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f7a27f51b6bc4b981cd2199dc713c
+      internalID: 1913245052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8713a1ee0ea113741b22efcfd3606810
+      internalID: 321169576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decibelle_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1
+        width: 189
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cefd3fae9e0922499075c80b5043feb
+      internalID: -1204655864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 039b27af82ad06f4f84810844d736cb5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      decibelle_0: 517176852
+      decibelle_1: -1636231281
+      decibelle_10: -1549753231
+      decibelle_11: 698406332
+      decibelle_12: 1659195857
+      decibelle_13: -1117867103
+      decibelle_14: -412279043
+      decibelle_15: 1667937092
+      decibelle_16: 83435500
+      decibelle_17: -1727640474
+      decibelle_18: 1370768652
+      decibelle_19: 1041347953
+      decibelle_2: -994338386
+      decibelle_20: 1444214951
+      decibelle_21: 279538756
+      decibelle_22: -465826279
+      decibelle_23: -575760290
+      decibelle_24: -2114784861
+      decibelle_25: 1549247923
+      decibelle_26: -1124158945
+      decibelle_27: 1953930534
+      decibelle_28: -1072023571
+      decibelle_29: -1370601954
+      decibelle_3: 278574711
+      decibelle_30: 259553412
+      decibelle_31: 1913245052
+      decibelle_32: 321169576
+      decibelle_33: -1204655864
+      decibelle_4: -969406067
+      decibelle_5: 1284615126
+      decibelle_6: -262872401
+      decibelle_7: 990830482
+      decibelle_8: -1982660685
+      decibelle_9: 331497807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

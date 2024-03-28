@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: 66c8a988c278e584dbb97db4019f550d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ramtasm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd44c37e92dfef449a61268f6c54beb
+      internalID: 1218179708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 546
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4967b1170ccb846b96e8c4f5fb1caa
+      internalID: 858491627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 546
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaacd0ff456f954d8c8ebd0c76c34c4
+      internalID: 1238563697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 546
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503a374ef5681d42982e73c343fe9bd
+      internalID: -1421277367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 546
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5f154fd3ff5547a15fc3db5bf651d
+      internalID: -821573741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 546
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7aff3afe4de84388e416defbc72ed
+      internalID: 1091953666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135a3ff12b5724449377237fc398463
+      internalID: 2088125257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 437
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f833a0fc71d4064aa39c8221db6da12
+      internalID: 807789615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 437
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026f30b06b65b8439f0c35541ef7d48
+      internalID: 319901589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 437
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037bdcb007c484a4382e15e8cea37b63
+      internalID: 1796619467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 437
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d20022f47d6845aebecf317c471b4
+      internalID: 1985327265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 437
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30b78c98cba5246bcc60e9533033df
+      internalID: -1266524231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e936612f35d1c744bae548ace3e4852
+      internalID: 245421414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 328
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c02408c857e8af479a5b6d7eb2b86b9
+      internalID: -1291371509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 328
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e882d5c89047f94eb1a00dc60973b0f
+      internalID: -1432580091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 328
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00603445a6adf240a79d51b24323a24
+      internalID: -1583212759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 328
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebca4d40871bab42a4435fd494eab85
+      internalID: 463840250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 328
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19be6c50f640e954c83ddc3de38b529d
+      internalID: -686487568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2835dd0d1a7374dba5b30da79749c4
+      internalID: 779190638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 219
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa879b9d5946942a6d2f2a1404ea7d
+      internalID: -159382776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 219
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ecbb50c449af74884624e73d6c00bc
+      internalID: 1089318423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 219
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accc618e3122d154db03b457b7252a28
+      internalID: -1727718437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 219
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9ddb1f26c2bf44b9baf8241acd06c
+      internalID: -82120365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_23
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 219
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ee22eecb72a4489db299f1f183beb
+      internalID: 176458551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3573485809416bb44975a39cd17e079b
+      internalID: -1708913218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 110
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b68303d9dd0264bb016112a7eb0222
+      internalID: -1719384480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 110
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b78946b6dd2b45b48a08acac23273
+      internalID: 485189442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 110
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607611c29121d7439d055a52c8d53ac
+      internalID: -1681658169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 110
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ae674b0f9e694ca5aedf50d02c1f9
+      internalID: 850592792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_29
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 110
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e96a0046aa8d7540825c0a153bf7af7
+      internalID: 1593558800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507551e482f86c34d9c7aa6c9221c1cd
+      internalID: -1254142463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9423fdec91ee9bc4eb90b25e4cae8d53
+      internalID: -1282203810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95832227ddf3c534cb007c63183a94cd
+      internalID: 1277388789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramtasm_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1
+        width: 123
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6183d9e36b9c242af22bf62cbf6903
+      internalID: 1667047711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 38902302d11b09441869052143cbae8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ramtasm_0: 1218179708
+      ramtasm_1: 858491627
+      ramtasm_10: 1985327265
+      ramtasm_11: -1266524231
+      ramtasm_12: 245421414
+      ramtasm_13: -1291371509
+      ramtasm_14: -1432580091
+      ramtasm_15: -1583212759
+      ramtasm_16: 463840250
+      ramtasm_17: -686487568
+      ramtasm_18: 779190638
+      ramtasm_19: -159382776
+      ramtasm_2: 1238563697
+      ramtasm_20: 1089318423
+      ramtasm_21: -1727718437
+      ramtasm_22: -82120365
+      ramtasm_23: 176458551
+      ramtasm_24: -1708913218
+      ramtasm_25: -1719384480
+      ramtasm_26: 485189442
+      ramtasm_27: -1681658169
+      ramtasm_28: 850592792
+      ramtasm_29: 1593558800
+      ramtasm_3: -1421277367
+      ramtasm_30: -1254142463
+      ramtasm_31: -1282203810
+      ramtasm_32: 1277388789
+      ramtasm_33: 1667047711
+      ramtasm_4: -821573741
+      ramtasm_5: 1091953666
+      ramtasm_6: 2088125257
+      ramtasm_7: 807789615
+      ramtasm_8: 319901589
+      ramtasm_9: 1796619467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
