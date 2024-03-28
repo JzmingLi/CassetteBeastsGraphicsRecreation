@@ -69,7 +69,7 @@ Material:
     - _EmissionStrength: 5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Static: 1
+    - _Static: 0
     - _StaticPixelScale: 1395
     - _StaticRandomness: 9209
     - _StaticScale: 9991.2
